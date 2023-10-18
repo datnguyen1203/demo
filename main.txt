@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 dat
 nguyen pham
+=======
+dat nguyen
+>>>>>>> refs/remotes/origin/main
